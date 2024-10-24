@@ -19,4 +19,4 @@ elif(percentage>=60 and percentage<69):
 elif(percentage>=50 and percentage<59):
     print("C grade")
 else:
-    print("You are failed")
+    print("failed")
